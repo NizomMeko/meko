@@ -11,6 +11,8 @@ ReactDOM.render(
     <App meko="IT"/>
     <App meko="Code" />
     <App meko="Soft" />
+    <App meko="look"/>
+    
   </React.StrictMode>,
   document.getElementById('root')
 );
