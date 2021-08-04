@@ -10,6 +10,7 @@ ReactDOM.render(
     <App meko="PDP"/>
     <App meko="IT"/>
     <App meko="Code" />
+    <App meko="Soft" />
   </React.StrictMode>,
   document.getElementById('root')
 );
