@@ -9,6 +9,7 @@ ReactDOM.render(
     <App meko="WebBrain"/>
     <App meko="PDP"/>
     <App meko="IT"/>
+    <App meko="Code" />
   </React.StrictMode>,
   document.getElementById('root')
 );
